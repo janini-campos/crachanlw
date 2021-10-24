@@ -1,5 +1,5 @@
 const LinksSocialMedia = {
-  github: 'janini-campos'
+  github: 'janini-campos',
   youtube: 'alexiadenfort',
   facebook: 'janinicampos',
   instagram: 'janinircampos',
